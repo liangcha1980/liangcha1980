@@ -1,1 +1,1 @@
-vcs -sverilog -R
+vcs -sverilog auto_function.sv -R
